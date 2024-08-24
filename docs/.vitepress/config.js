@@ -1,4 +1,5 @@
 export default {
+  base: '/blog/',
   title: 'My VitePress Blog',
   description: 'A simple blog created with VitePress',
   themeConfig: {
