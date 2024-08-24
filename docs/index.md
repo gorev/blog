@@ -8,4 +8,4 @@ This is the homepage of my VitePress blog. Here you'll find my latest posts and 
 
 ## Recent Posts
 
-- [Article 1](/blog/posts/article-1)
+- [Article 1](/posts/article-1)
