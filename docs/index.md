@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 hero:
   name: My VitePress Blog
   text: A simple blog created with VitePress
