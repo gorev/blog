@@ -1,12 +1,11 @@
 export default {
   base: '/blog/',
-  title: 'My VitePress Blog',
-  description: 'A simple blog created with VitePress',
+  title: 'Egor Gorev',
+  description: 'Personal blog of Egor Gorev',
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Posts', link: '/posts/' },
+      { text: 'About', link: '/about/' },
     ],
     sidebar: [
       {
