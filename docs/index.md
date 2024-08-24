@@ -1,16 +1,11 @@
 ---
-layout: default
-hero:
-  name: My VitePress Blog
-  text: A simple blog created with VitePress
-  tagline: Welcome to my blog!
-  actions:
-    - theme: brand
-      text: View Posts
-      link: /posts/
-features:
-  - title: Feature A
-    details: Description of feature A
-  - title: Feature B
-    details: Description of feature B
+layout: doc
 ---
+
+# Welcome to My Blog
+
+This is the homepage of my VitePress blog. Here you'll find my latest posts and thoughts.
+
+## Recent Posts
+
+<!-- You'll add links to your posts here later -->
