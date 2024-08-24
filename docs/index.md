@@ -1,5 +1,5 @@
 ---
-layout: doc
+layout: home
 ---
 
 # Welcome to My Blog
