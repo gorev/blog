@@ -2,4 +2,4 @@
 
 Here you'll find all my blog posts:
 
-<!-- You'll add links to your posts here later -->
+- [My First Blog Post](./my-first-post.md)
