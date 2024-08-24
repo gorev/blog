@@ -11,8 +11,6 @@ export default {
     sidebar: [
       {
         text: 'Posts',
-        collapsible: true,
-        collapsed: false,
         items: [
           { text: 'Article 1', link: '/posts/article-1' }
         ]
