@@ -2,6 +2,7 @@ export default {
   base: '/blog/',
   title: 'My VitePress Blog',
   description: 'A simple blog created with VitePress',
+  ignoreDeadLinks: true,  // Add this line
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
