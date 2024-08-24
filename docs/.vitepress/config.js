@@ -11,7 +11,7 @@ export default {
       {
         text: 'Posts',
         collapsible: true,
-        link: '/posts/',
+        collapsed: false,
         items: [
           { text: 'Article 1', link: '/posts/article-1' }
         ]
