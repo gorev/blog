@@ -2,4 +2,4 @@
 
 Here you'll find all my blog posts:
 
-- [My First Post](/blog/posts/my-first-post)
+- [Article 1](/blog/posts/article-1)
