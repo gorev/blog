@@ -9,6 +9,12 @@ export default {
     ],
     sidebar: [
       {
+        text: '2024',
+        items: [
+          { text: 'May 2024', link: '/2024/may-2024' }
+        ]
+      },
+      {
         text: 'Posts',
         items: [
           { text: 'Article 1', link: '/posts/article-1' }
