@@ -1,11 +1,5 @@
----
-layout: doc
----
+# Blog Posts
 
-# Welcome to My Blog
+Here you'll find all my blog posts:
 
-This is the homepage of my VitePress blog. Here you'll find my latest posts and thoughts.
-
-## Recent Posts
-
-<!-- You'll add links to your posts here later -->
+- [Article 1](/blog/posts/article-1)
