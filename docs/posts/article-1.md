@@ -5,7 +5,7 @@ This is the content of Article 1.
 ## Introduction
 
 Welcome to my first article...
-![Alt text](docs/images/p1-hornlihuette)
+![Alt text](/docs/images/p1-hornlihuette)
 
 
 ## Main Content
