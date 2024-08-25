@@ -10,6 +10,8 @@
   },
   "devDependencies": {
     "vitepress": "^1.0.0-rc.40",
-    "vue": "^3.4.0"
+    "vue": "^3.4.0",
+    "photoswipe": "^5.4.0",
+    "vitepress-plugin-photoswipe": "^0.5.1"
   }
 }
