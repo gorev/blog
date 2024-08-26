@@ -9,11 +9,3 @@
   max-width: 800px;
   margin: 0 auto;
 }
-
-.medium-zoom-overlay {
-  z-index: 20;
-}
-
-.medium-zoom-image {
-  z-index: 21;
-}
