@@ -6,7 +6,7 @@ layout: doc
 
 This is the homepage of my VitePress blog. Here you'll find my latest posts and thoughts.
 
-![Alt text](../docs/images/1.png){data-zoomable}
+![Alt text](../docs/images/1.png)
 
 ## Recent Posts
 
