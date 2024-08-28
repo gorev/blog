@@ -5,7 +5,7 @@ export default {
   ignoreDeadLinks: true,
   themeConfig: {
     head: [
-    ['link', { rel: 'icon', href: '/images/favicon.png' }],
+    ['link', { rel: 'icon', href: 'docs/images/favicon.png' }],
     ],
     nav: [
       { text: 'Now', link: '/now' },
