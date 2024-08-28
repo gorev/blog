@@ -36,6 +36,8 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: docs/.vitepress/dist
+      - name: List build output
+        run: ls -R docs/.vitepress/dist
 
   deploy:
     environment:
