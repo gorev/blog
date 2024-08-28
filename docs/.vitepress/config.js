@@ -11,15 +11,15 @@ export default {
       {
         text: 'Travel',
         items: [
-          { text: 'Matterhorn', link: '/travel/matterhorn' }
+          { text: 'Matterhorn', link: '/travel/matterhorn' },
           { text: 'Tenerife', link: '/travel/tenerife' }
         ]
       },
       {
         text: 'Bikepacking',
         items: [
-          { text: 'Berlin-Hamburg', link: '/bikepacking/berlin-hamburg' }
-          { text: 'Steppenwolf', link: '/bikepacking/steppenwolf' }
+          { text: 'Berlin-Hamburg', link: '/bikepacking/berlin-hamburg' },
+          { text: 'Steppenwolf', link: '/bikepacking/steppenwolf' },
           { text: 'Around The Netherlands', link: '/bikepacking/around-the-netherlands' }
         ]
       }
