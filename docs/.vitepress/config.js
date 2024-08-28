@@ -9,15 +9,18 @@ export default {
     ],
     sidebar: [
       {
-        text: '2024',
+        text: 'Travel',
         items: [
-          { text: 'May 2024', link: '/2024/may-2024' }
+          { text: 'Matterhorn', link: '/travel/matterhorn' }
+          { text: 'Tenerife', link: '/travel/tenerife' }
         ]
       },
       {
-        text: 'Posts',
+        text: 'Bikepacking',
         items: [
-          { text: 'Article 1', link: '/posts/article-1' }
+          { text: 'Berlin-Hamburg', link: '/bikepacking/berlin-hamburg' }
+          { text: 'Steppenwolf', link: '/bikepacking/steppenwolf' }
+          { text: 'Around The Netherlands', link: '/bikepacking/around-the-netherlands' }
         ]
       }
     ],
