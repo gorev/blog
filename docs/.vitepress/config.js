@@ -5,7 +5,8 @@ export default {
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [
-      { text: 'About', link: '/about/' },
+      { text: 'Now', link: '/now' },
+      { text: 'About', link: '/about' }
     ],
     sidebar: [
       {
