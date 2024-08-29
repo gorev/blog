@@ -4,9 +4,6 @@ export default {
   description: 'Personal blog of Egor Gorev',
   ignoreDeadLinks: true,
   themeConfig: {
-    head: [
-    [['link', { rel: 'icon', href: '/public/favicon.png' }]]
-    ],
     nav: [
       { text: 'Now', link: '/now' },
       { text: 'About', link: '/about' }
