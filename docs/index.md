@@ -4,7 +4,7 @@ layout: doc
 
 # Latest post
 
-![Alt text] (../docs/images/eggplant.png)
+![Alt text](../docs/images/eggplant.png)
 
 Here's a short description of what I wrote recently and the link to the post.
 
