@@ -6,6 +6,7 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Now', link: '/now' },
+      { text: 'Archive', link: '/archive' },
       { text: 'About', link: '/about' }
     ],
     sidebar: [
