@@ -2,12 +2,12 @@
 layout: doc
 ---
 
-# Welcome to My Blog
+# Latest post
 
-This is the homepage of my VitePress blog. Here you'll find my latest posts and thoughts.
+Here's a short description of what I wrote recently and the link to the post.
 
-![Alt text](../docs/images/1.png)
+[Link](/posts/link)
 
-## Recent Posts
+## Additionally
 
-- [Article 1](/posts/article-1)
+To see what I'm doing now, check the now page. Or go to archive to see posts in chronological order.
