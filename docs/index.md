@@ -6,9 +6,7 @@ layout: doc
 
 ![Alt text](../docs/images/eggplant.png)
 
-Here's a short description of what I wrote recently and the link to the post.
-
-[Link](/posts/link)
+IWM
 
 ## Additionally
 
