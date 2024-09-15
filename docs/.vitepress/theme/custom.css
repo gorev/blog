@@ -11,9 +11,9 @@
 }
 /* Medium Zoom styles */
 .medium-zoom-overlay {
-  z-index: 20;
+  z-index: 1000 !important;
 }
 
 .medium-zoom-image {
-  z-index: 21;
+  z-index: 1001 !important;
 }
