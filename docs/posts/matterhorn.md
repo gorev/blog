@@ -1,3 +1,3 @@
 # Matterhorn
 
-![Alt text](../docs/images/eggplant.png){data-zoomable}
+![Alt text](../images/eggplant.png){data-zoomable}
