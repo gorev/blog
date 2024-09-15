@@ -4,7 +4,7 @@ layout: doc
 
 # Latest post
 
-![Alt text](../docs/images/eggplant.png)
+![Alt text](../docs/images/eggplant.png){data-zoomable}
 
 IWM
 
