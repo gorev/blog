@@ -1,5 +1,6 @@
 import DefaultTheme from 'vitepress/theme';
-import { onMounted, onUpdated, nextTick } from 'vue';
+import { onMounted, watch, nextTick } from 'vue';
+import { useRoute } from 'vitepress';
 import mediumZoom from 'medium-zoom';
 
 import './custom.css';
@@ -7,6 +8,7 @@ import './custom.css';
 export default {
   ...DefaultTheme,
   setup() {
+    const route = useRoute();
     let zoom;
 
     const initZoom = () => {
@@ -14,6 +16,7 @@ export default {
       if (zoom) {
         zoom.detach();
       }
+
       // Initialize medium-zoom on images with the data-zoomable attribute
       zoom = mediumZoom('[data-zoomable]', {
         background: 'var(--vp-c-bg)',
@@ -21,14 +24,19 @@ export default {
     };
 
     onMounted(() => {
+      // Initialize zoom on first load
       initZoom();
-    });
 
-    onUpdated(() => {
-      // Wait for the DOM to update before re-initializing zoom
-      nextTick(() => {
-        initZoom();
-      });
+      // Watch for route changes
+      watch(
+        () => route.path,
+        () => {
+          // Wait for the DOM to update
+          nextTick(() => {
+            initZoom();
+          });
+        }
+      );
     });
   },
 };
