@@ -13,7 +13,7 @@ export default {
       {
         text: 'Travel',
         items: [
-          { text: 'Matterhorn', link: '/matterhorn' },
+          { text: 'Matterhorn', link: '/posts/matterhorn' },
           { text: 'Tenerife', link: '/travel/tenerife' }
         ]
       },
