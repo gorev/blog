@@ -3,6 +3,8 @@ layout: doc
 ---
 
 # Latest post
+![Alt text](.../images/1.png)
+
 
 
 
