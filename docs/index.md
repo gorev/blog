@@ -3,7 +3,7 @@ layout: doc
 ---
 
 # Latest post
-![Alt text](docs/images/1.png)
+![Alt text](.../docs/images/1.png)
 
 
 
