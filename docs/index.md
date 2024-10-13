@@ -1,5 +1,6 @@
 # Latest post
 Hi there! Content coming soon
+
 ![Alt text](../docs/images/1.png){data-zoomable}
 
 ## Additionally
