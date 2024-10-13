@@ -1,16 +1,6 @@
----
-layout: doc
----
-
 # Latest post
-fsdflkdfdfkdsjfldjsfljsdlfjdsf
+Hi there! Content coming soon
 ![Alt text](../docs/images/1.png){data-zoomable}
-
-
-ffdfjdsjfdsgkfrf
-
-
-IWM
 
 ## Additionally
 
