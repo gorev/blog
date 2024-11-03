@@ -8,6 +8,6 @@ Hi there! Content coming soon
 To see what I'm doing now, check the now page. Or go to archive to see posts in chronological order.
 
 <details>
-  <summary>Hello</summary>
+  <summary><h1>Hello</h1></summary>
   World!
 </details>
