@@ -1,6 +1,6 @@
 # Quiche
 
-![Alt text](../images/1.png)
+![Alt text](../1.png)
 
 
 One of my all-time favorites – perfect for breakfast, lunch, or dinner. It’s a bit of work, but so worth it.
