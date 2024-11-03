@@ -1,6 +1,6 @@
 # Quiche
 
-![Alt text](../egorev/docs/images/1.png){data-zoomable}
+![Alt text](../gorev/docs/images/1.png){data-zoomable}
 
 
 One of my all-time favorites – perfect for breakfast, lunch, or dinner. It’s a bit of work, but so worth it.
