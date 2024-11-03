@@ -14,8 +14,4 @@ I took inspiration from two Japanese Youtubers (I know, lol), and used their rec
 
 I highly recommend watching the videos below — they’ll walk you through most of the techniques.
 
-<VideoEmbed videoId="https://youtu.be/4oMA_tHuxss" />
-
-<iframe width="560" height="315" src="https://youtu.be/4oMA_tHuxss" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://youtu.be/iTc-hm1ddqs" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/4oMA_tHuxss
