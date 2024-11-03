@@ -13,7 +13,7 @@ export default {
       {
         text: 'Cooking',
         items: [
-          { text: 'Quiche', link: '/posts/quiche' }
+          { text: 'Quiche', link: '/posts/cooking/quiche' }
         ]
       },
     ],
