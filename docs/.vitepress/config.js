@@ -11,20 +11,11 @@ export default {
     ],
     sidebar: [
       {
-        text: 'Travel',
+        text: 'Cooking',
         items: [
-          { text: 'Matterhorn', link: '/posts/matterhorn' },
-          { text: 'Tenerife', link: '/travel/tenerife' }
+          { text: 'Quiche', link: '/posts/quiche' }
         ]
       },
-      {
-        text: 'Bikepacking',
-        items: [
-          { text: 'Berlin-Hamburg', link: '/bikepacking/berlin-hamburg' },
-          { text: 'Steppenwolf', link: '/bikepacking/steppenwolf' },
-          { text: 'Around The Netherlands', link: '/bikepacking/around-the-netherlands' }
-        ]
-      }
     ],
     socialLinks: [
       { icon: 'instagram', link: 'https://instagram.com/egorev' }
