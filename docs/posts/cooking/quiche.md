@@ -15,3 +15,4 @@ I took inspiration from two Japanese Youtubers (I know, lol), and used their rec
 I highly recommend watching the videos below — they’ll walk you through most of the techniques.
 
 https://youtu.be/4oMA_tHuxss
+https://youtu.be/iTc-hm1ddqs
