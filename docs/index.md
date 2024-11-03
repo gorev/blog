@@ -6,3 +6,8 @@ Hi there! Content coming soon
 ## Additionally
 
 To see what I'm doing now, check the now page. Or go to archive to see posts in chronological order.
+
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
