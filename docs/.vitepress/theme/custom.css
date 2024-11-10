@@ -17,3 +17,11 @@
 .medium-zoom-image {
   z-index: 1001 !important;
 }
+
+.VPDoc table {
+    width: 100%;
+}
+
+.VPDoc table th {
+    text-align: left;
+}
