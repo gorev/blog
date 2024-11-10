@@ -69,7 +69,7 @@ When deciding how much salt to add, think about how much you’d use to season a
 
 ## Instructions
 
-### Making and blind baking the crust
+### Prepare and blind-bake the crust
 
 1. Grate the butter and mix it with the flour.
 2. Beat the eggs with a pinch of salt.
@@ -80,4 +80,4 @@ When deciding how much salt to add, think about how much you’d use to season a
 7. Cover the dough with aluminum foil and add pie weights—ceramic baking beads, dry beans, or rice.
 8. Pre-bake the crust at 180°C for 20 minutes.
 
-
+![Alt text](../../images/quiche_2.png){data-zoomable}
