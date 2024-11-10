@@ -37,7 +37,7 @@ Since I’m based in Berlin, I found most of the ingredients at REWE supermarket
 
 | Ingredient                  | Quantity |
 |-----------------------------|----------|
-| Gluten-free flour           | 260 g    |
+| [Gluten-free flour](https://www.nu3.de/products/bauckhof-mehl-mix-universal-glutenfrei?variant=32873714450513&wt_ga5673642375=&wt_gk5673642375=_&wt_cc2=AdWords|x|18078148957||||c|||9061136&adword=google-product/SER_Google_DE_DE_PLA/18078148957//nu3_14989&utm_source=google&utm_medium=cpc&utm_campaign=18078148957&gad_source=1&gclid=Cj0KCQiA0MG5BhD1ARIsAEcZtwTOu1Dnv3I0Bxm8LrSbJW3AR_Qgm75HfnAtD0PWyivKfiIUAznDIYoaAjn5EALw_wcB)           | 260 g    |
 | Butter                      | 170 g    |
 | Eggs                        | 2 pcs    |
 | Salt                        | To taste |
