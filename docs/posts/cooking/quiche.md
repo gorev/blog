@@ -22,7 +22,28 @@ https://youtu.be/iTc-hm1ddqs
 
 ## Ingredients
 
-### Crust
+Since I’m based in Berlin, I found most of the ingredients at REWE supermarket. I’ll link to the specific products I used so you can pick up the same ones or use them as a guide.
+
+### Crust (classic)
+
+| Ingredient                  | Quantity |
+|-----------------------------|----------|
+| All-purpose flour           | 260 g    |
+| Butter                      | 120 g    |
+| Eggs                        | 2         |
+| Salt                        | To taste |
+
+### Crust (gluten-free)
+
+| Ingredient                  | Quantity |
+|-----------------------------|----------|
+| Gluten-free flour           | 260 g    |
+| Butter                      | 170 g    |
+| Eggs                        | 2 pcs    |
+| Salt                        | To taste |
+| Cold water                  | 2 tbsp   |
+
+
 
 ### Fillings
 
