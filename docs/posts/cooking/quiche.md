@@ -41,7 +41,7 @@ The gluten-free crust isn’t quite as good as the classic one and tends to crac
 |-----------------------------|----------|
 | [Gluten-free flour](https://www.nu3.de/products/bauckhof-mehl-mix-universal-glutenfrei)           | 260 g    |
 | Butter                     | 170 g    |
-| Eggs                        | 2 pcs    |
+| Eggs                        | 2    |
 | Salt                        | To taste |
 | Cold water                  | 2 tbsp   |
 
@@ -50,7 +50,7 @@ The gluten-free crust isn’t quite as good as the classic one and tends to crac
 
 | Ingredient                  | Quantity |
 |-----------------------------|----------|
-| Bell pepper (red)           | 1 pc    |
+| Bell pepper (red)           | 1    |
 | [Spinach (fresh)](https://shop.rewe.de/p/rewe-bio-blattspinat-100g/7294456)                     |          |
 | [Prosciutto](https://shop.rewe.de/products/1424192?variantArticleId=V8EBVY1Q)                   |          |
 | [Brown champignons](https://shop.rewe.de/products/8312738?variantArticleId=27952450)                   | 250 g    |
@@ -59,8 +59,25 @@ The gluten-free crust isn’t quite as good as the classic one and tends to crac
 
 ### Egg Mixture
 
+When deciding how much salt to add, think about how much you’d use to season a six egg omelette.
+
 | Ingredient           | Quantity                                 |
 |----------------------|------------------------------------------|
 | [Cream (32% fat)](https://shop.rewe.de/products/1252453?variantArticleId=KB4ZWS5Y)          | 408 ml                                  |
-| Eggs                 | 6 pcs                                   |
+| Eggs                 | 6                                  |
 | Salt                 | to taste    |
+
+## Instructions
+
+### Making and blind baking the crust
+
+1. Grate the butter and mix it with the flour.
+2. Beat the eggs with a pinch of salt.
+3. Add the eggs to the flour mixture and knead until a dough forms.
+4. Shape the dough into a thick, round disc, wrap it in plastic, and chill in the fridge for 1 hour.
+5. Grease your baking dish with butter or olive oil to prevent sticking.
+6. Roll out the dough, place it in the baking dish, and prick it with a fork to allow air to escape.
+7. Cover the dough with aluminum foil and add pie weights—ceramic baking beads, dry beans, or rice.
+8. Pre-bake the crust at 180°C for 20 minutes.
+
+
