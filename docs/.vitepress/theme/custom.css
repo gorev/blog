@@ -20,8 +20,10 @@
 
 .VPDoc table {
     width: 100%;
+    table-layout: auto;
 }
 
-.VPDoc table th {
+.VPDoc table th,
+.VPDoc table td {
     text-align: left;
 }
