@@ -1,17 +1,17 @@
 # Quiche
 
+One of my all-time favorites – perfect for breakfast, lunch, or dinner. It’s a bit of work, but so worth it.
+
 ![Alt text](../../images/quiche_1.png){data-zoomable}
 
 
-One of my all-time favorites – perfect for breakfast, lunch, or dinner. It’s a bit of work, but so worth it.
-
-### Components
+## Components
 
 Quiche might seem like rocket science, but it’s actually quite simple and comes down to three main parts: the crust, the fillings, and the egg mixture.
 
 Once you have the crust ready, just add your fillings and pour in the egg mixture. That’s pretty much it.
 
-### Inspiration
+## Inspiration
 
 I took inspiration from two Japanese Youtubers (I know, lol), and used their recipes as a base. I then tweaked them to my liking.
 
@@ -22,4 +22,8 @@ https://youtu.be/iTc-hm1ddqs
 
 ## Ingredients
 
-#### Crust
+### Crust
+
+### Fillings
+
+### Egg Mixture
