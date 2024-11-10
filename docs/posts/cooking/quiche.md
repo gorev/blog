@@ -24,6 +24,8 @@ https://youtu.be/iTc-hm1ddqs
 
 Since I’m based in Berlin, I found most of the ingredients at REWE supermarket. I’ll link to the specific products I used so you can pick up the same ones or use them as a guide.
 
+The ingredient quantities below are ideal for my [28 cm Le Creuset quiche form](https://www.lecreuset.de/de_DE/p/tarteform-aus-steinzeug/SW1120.html?dwvar_SW1120_color=flint&dwvar_SW1120_size=28cm-l2-1).
+
 ### Crust (classic)
 
 | Ingredient                  | Quantity |
