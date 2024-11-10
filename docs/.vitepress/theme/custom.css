@@ -18,9 +18,12 @@
   z-index: 1001 !important;
 }
 
-.VPDoc table {
+.VPDoc table,
+.VPDoc table tbody,
+.VPDoc table tr,
+.VPDoc table th,
+.VPDoc table td {
     width: 100%;
-    table-layout: auto;
 }
 
 .VPDoc table th,
