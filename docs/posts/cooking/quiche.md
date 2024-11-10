@@ -58,3 +58,9 @@ The gluten-free crust isn’t quite as good as the classic one and tends to crac
 | [Gruyère cheese](https://shop.rewe.de/products/7259886?variantArticleId=4388860191530)              | 120 g    |
 
 ### Egg Mixture
+
+| Ingredient           | Quantity                                 |
+|----------------------|------------------------------------------|
+| [Cream (32% fat)](https://shop.rewe.de/products/1252453?variantArticleId=KB4ZWS5Y)          | 408 ml                                  |
+| Eggs                 | 6 pcs                                   |
+| Salt                 | to taste    |
