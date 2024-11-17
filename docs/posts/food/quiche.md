@@ -79,7 +79,7 @@ When deciding how much salt to add, think about how much you’d use to season a
 4. Shape the dough into a thick, round disc, wrap it in plastic, and chill in the fridge for 1 hour.
 5. Grease your baking dish with butter or olive oil to prevent sticking.
 6. Roll out the dough, place it in the baking dish, and prick it with a fork to allow air to escape.
-7. Cover the dough with aluminum foil and add pie weights—[ceramic baking beads](https://www.amazon.de/-/en/gp/product/B0001IWZ2W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), dry beans, or rice.
+7. Cover the dough with aluminum foil and add pie weights—[ceramic baking beads](https://www.amazon.de/-/en/gp/product/B0001IWZ2W/), dry beans, or rice.
 8. Pre-bake the crust at 180°C for 20 minutes.
 
 ![Alt text](../../images/crust.png){data-zoomable}
