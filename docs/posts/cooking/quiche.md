@@ -97,7 +97,7 @@ I like to add a pinch of salt to the onions, bell pepper, mushrooms, and spinach
 
 ### Prepare the Egg Mixture
 
-I recommend letting the eggs and cream come to room temperature before mixing for a smoother consistency.
+I recommend letting the eggs and cream come closer to room temperature before mixing them.
 
 1. Beat the eggs in a bowl and season with salt.
 2. Add the cream and whisk until fully combined.
