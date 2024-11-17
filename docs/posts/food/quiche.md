@@ -43,7 +43,7 @@ The gluten-free crust isn’t quite as good as the classic one and tends to crac
 |-----------------------------|----------|
 | [Gluten-free flour](https://www.nu3.de/products/bauckhof-mehl-mix-universal-glutenfrei)           | 260 g    |
 | Butter                     | 170 g    |
-| Eggs                        | 2    |
+| Eggs (medium sized)                        | 2    |
 | Salt                        | To taste |
 | Cold water                  | 2 tbsp   |
 
@@ -66,7 +66,7 @@ When deciding how much salt to add, think about how much you’d use to season a
 | Ingredient           | Quantity                                 |
 |----------------------|------------------------------------------|
 | [Cream (32% fat)](https://shop.rewe.de/products/1252453?variantArticleId=KB4ZWS5Y)          | 408 ml                                  |
-| Eggs                 | 6                                  |
+| Eggs (medium sized)               | 6                                  |
 | Salt                 | to taste    |
 
 ## Instructions
