@@ -1,13 +1,4 @@
-# Latest post
-Hi there! Content coming soon
+# Hi.
+Content coming soon
 
-![Alt text](../docs/images/1.png){data-zoomable}
-
-## Additionally
-
-To see what I'm doing now, check the now page. Or go to archive to see posts in chronological order.
-
-<details>
-  <summary><h1>Hello</h1></summary>
-  World!
-</details>
+![Alt text](../docs/images/egor.png){data-zoomable}
