@@ -56,7 +56,7 @@ The gluten-free crust isn’t quite as good as the classic one and tends to crac
 | [Spinach (fresh)](https://shop.rewe.de/p/rewe-bio-blattspinat-100g/7294456)                     |          |
 | [Prosciutto](https://shop.rewe.de/products/1424192?variantArticleId=V8EBVY1Q)                   |          |
 | [Brown champignons](https://shop.rewe.de/products/8312738?variantArticleId=27952450)                   | 250 g    |
-| White onions                       | 5 pcs    |
+| Yellow onions                       | 5 pcs    |
 | [Gruyère cheese](https://shop.rewe.de/products/7259886?variantArticleId=4388860191530)              | 120 g    |
 
 ### Egg Mixture
