@@ -115,9 +115,11 @@ I recommend letting the eggs and cream come closer to room temperature before mi
 
 ![Alt text](../../images/fillings-2.png){data-zoomable}
 
+![Alt text](../../images/slice.png){data-zoomable}
+
 ### Additional Notes
 
-- I swapped bacon for prosciutto because cooking bacon can be a hassle.
-- The quiche is even more flavorful the next day. I reheat slices in a frying pan over low-medium heat with a lid, adding a splash of water to create steam. A microwave would likely work better, but I don’t have one.
+– I swapped bacon for prosciutto because cooking bacon can be a hassle.
+– The quiche is even more flavorful the next day. I reheat slices in a frying pan over low-medium heat with a lid, adding a splash of water to create steam. A microwave would likely work better, but I don’t have one.
 
-  ![Alt text](../../images/slice.png){data-zoomable}
+
