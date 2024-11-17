@@ -11,9 +11,9 @@ export default {
     ],
     sidebar: [
       {
-        text: 'Cooking',
+        text: 'Food',
         items: [
-          { text: 'Quiche', link: '/posts/cooking/quiche' }
+          { text: 'Quiche', link: '/posts/food/quiche' }
         ]
       },
     ],
