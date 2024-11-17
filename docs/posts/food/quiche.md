@@ -1,6 +1,6 @@
 # Quiche
 
-One of my all-time favorites – perfect for breakfast, lunch, or dinner. It’s a bit of work, but so worth it.
+One of my all-time favorites – perfect for breakfast, lunch, or dinner. It takes quite some time, but so worth it.
 
 ![Alt text](../../images/quiche_1.png){data-zoomable}
 
