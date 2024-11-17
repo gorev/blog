@@ -82,7 +82,7 @@ When deciding how much salt to add, think about how much you’d use to season a
 7. Cover the dough with aluminum foil and add pie weights—ceramic baking beads, dry beans, or rice.
 8. Pre-bake the crust at 180°C for 20 minutes.
 
-![Alt text](../../images/quiche_2.png){data-zoomable}
+![Alt text](../../images/crust.png){data-zoomable}
 
 ### Prepare the Fillings
 
@@ -111,7 +111,13 @@ I recommend letting the eggs and cream come closer to room temperature before mi
 5. Bake at 180°C for 50 minutes, or until the center is just set but still tender.
 6. Let the quiche rest for at least 20 minutes before serving — it helps the flavors meld and makes slicing easier.
 
+![Alt text](../../images/fillings-1.png){data-zoomable}
+
+![Alt text](../../images/fillings-2.png){data-zoomable}
+
 ### Additional Notes
 
 - I swapped bacon for prosciutto because cooking bacon can be a hassle.
 - The quiche is even more flavorful the next day. I reheat slices in a frying pan over low-medium heat with a lid, adding a splash of water to create steam. A microwave would likely work better, but I don’t have one.
+
+  ![Alt text](../../images/slice.png){data-zoomable}
