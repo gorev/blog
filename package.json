@@ -1,0 +1,15 @@
+{
+  "name": "my-vitepress-blog",
+  "version": "1.0.0",
+  "description": "Personal site of Egor Gorev",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs && node scripts/inline-css.mjs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.40",
+    "vue": "^3.4.0"
+  }
+}

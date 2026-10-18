@@ -1,0 +1,229 @@
+@font-face {
+  font-family: "Paper Mono";
+  font-style: normal;
+  font-weight: 100 800;
+  font-display: swap;
+  src: url("/fonts/PaperMono[wght].woff2") format("woff2");
+}
+
+:root {
+  --bg: #ffffff;
+  --ink: #111111;
+  --muted: #525252;
+  --pad-top: clamp(4.75rem, 14vh, 7.5rem);
+  color-scheme: light;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a0a0a;
+    --ink: #ededed;
+    --muted: #a3a3a3;
+    color-scheme: dark;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Paper Mono", ui-monospace, "SF Mono", "Cascadia Mono", "Segoe UI Mono", Menlo,
+    Consolas, monospace;
+  font-weight: 400;
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  letter-spacing: -0.02em;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+#app {
+  min-height: 100%;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 1.5px solid var(--ink);
+  outline-offset: 3px;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.page {
+  width: 100%;
+  min-height: 100vh;
+  min-height: 100svh;
+  margin: 0 auto;
+  padding: var(--pad-top) max(clamp(1.5rem, 4vw, 1.75rem), env(safe-area-inset-right, 0px)) 5rem
+    max(clamp(1.5rem, 4vw, 1.75rem), env(safe-area-inset-left, 0px));
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.column {
+  width: fit-content;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+h1 {
+  margin: 0;
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+.bio {
+  margin: 1rem 0 0;
+  max-width: 42em;
+  font-weight: 400;
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  text-wrap: pretty;
+}
+
+.bio span {
+  display: block;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.35rem;
+  margin-top: 2rem;
+}
+
+.links a {
+  color: var(--muted);
+  font-size: inherit;
+  font-weight: 400;
+  line-height: 1.4;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+  padding: 0.35rem 0;
+}
+
+.links a.no-icon {
+  text-decoration: none;
+}
+
+.links a .label {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+}
+
+.arrow {
+  display: inline-block;
+  margin-left: 0.28em;
+  color: inherit;
+  font: inherit;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.links a:hover {
+  color: var(--ink);
+  text-decoration-color: currentColor;
+}
+
+.links a:hover .label {
+  text-decoration-color: currentColor;
+}
+
+/* VitePress draws its own external icon with ::after. These links use ↗ instead. */
+.page :is(a[target="_blank"], .vp-external-link-icon)::after {
+  content: none;
+  display: none;
+  width: 0;
+  height: 0;
+  margin: 0;
+  background: none;
+  mask-image: none;
+  -webkit-mask-image: none;
+}
+
+.missing h1 {
+  max-width: 22em;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.65;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html,
+  body,
+  .page {
+    transition: background-color 200ms ease, color 200ms ease;
+  }
+
+  .links a,
+  .links a .label {
+    transition: color 160ms ease, text-decoration-color 160ms ease;
+  }
+
+  .arrow {
+    transition: transform 160ms ease;
+  }
+
+  .links a:hover .arrow {
+    transform: translate(0.06em, -0.06em);
+  }
+}
+
+@media print {
+  .page,
+  body {
+    background: white;
+    color: black;
+  }
+
+  .links a {
+    color: #333;
+  }
+}
